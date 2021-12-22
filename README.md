@@ -8,4 +8,4 @@ In dieser Aufgabe probierst du noch einmal an einem einfacheren Beispiel das Abf
 
 ## Lernvideos zum Thema
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/stVyTvZUFHc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/stVyTvZUFHc"></iframe>
